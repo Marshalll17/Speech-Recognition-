@@ -1,4 +1,4 @@
-# Speech-Recognition-
+# Speech-Recognition
 A simple speech recognition project.
 
 GOAL
